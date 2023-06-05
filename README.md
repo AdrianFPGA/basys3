@@ -1,4 +1,4 @@
-# FPGA Bee Invaders
+# FPGA Game
 
 This is a tutorial detailing the creation of the game Bee Invaders (a modern version of the popular arcade video game Space Invaders)
 
